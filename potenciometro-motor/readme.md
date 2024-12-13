@@ -1,1 +1,0 @@
-# Potenciômetro e Servo Motor

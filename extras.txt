@@ -1,0 +1,9 @@
+Link para o Broker:
+https://www.hivemq.com/demos/websocket-client/
+
+Repositório:
+https://wokwi.com/makers/thalynda
+
+Repositório Godoi:
+https://github.com/agodoi
+
